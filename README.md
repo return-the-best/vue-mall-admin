@@ -1,5 +1,5 @@
 # vue-mall-admin
-
+基于vue，element-ui，echart完成电商后台管理
 ## Project setup
 ```
 npm install
